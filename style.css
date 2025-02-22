@@ -1,0 +1,33 @@
+will apply on the whole body
+* {
+    color:green;
+}
+
+h1{
+    color:aquamarine
+}
+
+p {
+    text-align: center;
+    /* it will align center based on parent componet  */
+    text-decoration: line-through;
+}
+
+
+/* text align will align the text on the center of the box context  */
+div{
+    text-align: center;
+    /* since width is 200 it will align conetn on the center of the box of 200px */
+    width: 200px;
+}
+
+
+/* it will apply on the class with name navitems */
+/* .navitems{
+    background-color: black;;
+}
+
+span{
+    color: white;
+    margin-right: 200px;
+} */
