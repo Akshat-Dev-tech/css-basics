@@ -31,3 +31,17 @@ span{
     color: white;
     margin-right: 200px;
 }
+
+
+/* The height and width property will apply on content box */
+/* parnet div */
+.content{
+    height: 800px;
+    border:1px solid red;
+}
+
+/* child div */
+.contentbox{
+    height: 200px;
+    border:1px solid blueviolet;
+}
