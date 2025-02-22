@@ -15,19 +15,19 @@ p {
 
 
 /* text align will align the text on the center of the box context  */
-div{
+/* div{
     text-align: center;
-    /* since width is 200 it will align conetn on the center of the box of 200px */
+    since width is 200 it will align conetn on the center of the box of 200px
     width: 200px;
-}
+} */
 
 
 /* it will apply on the class with name navitems */
-/* .navitems{
+.navitems{
     background-color: black;;
 }
 
 span{
     color: white;
     margin-right: 200px;
-} */
+}
